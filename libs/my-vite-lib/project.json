@@ -1,0 +1,36 @@
+{
+  "name": "my-vite-lib",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/my-vite-lib/src",
+  "projectType": "library",
+  "targets": {
+    "dev": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "vite",
+        "cwd": "libs/my-vite-lib"
+      }
+    },
+    "build": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "tsc -b && vite build",
+        "cwd": "libs/my-vite-lib"
+      }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "eslint .",
+        "cwd": "libs/my-vite-lib"
+      }
+    },
+    "preview": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "vite preview",
+        "cwd": "libs/my-vite-lib"
+      }
+    }
+  }
+}

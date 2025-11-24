@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-24T06:17:43.693Z",
+  "phase": "post",
+  "runId": "669828671237615400",
+  "taskResults": [
+    {
+      "taskId": "my-vite-lib:dev",
+      "terminalOutputLength": 467
+    }
+  ]
+}

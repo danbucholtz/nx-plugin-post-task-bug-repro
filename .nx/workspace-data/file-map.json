@@ -1,0 +1,164 @@
+{
+  "version": "6.0",
+  "nxVersion": "22.1.1",
+  "pathMappings": {
+    "nx-log-plugin": [
+      "libs/nx-log-plugin/src/index.js"
+    ]
+  },
+  "nxJsonPlugins": [
+    {
+      "name": "./libs/nx-log-plugin/src/index.js",
+      "options": {}
+    }
+  ],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "my-vite-lib": [
+        {
+          "file": "libs/my-vite-lib/.gitignore",
+          "hash": "12781205501442676258"
+        },
+        {
+          "file": "libs/my-vite-lib/README.md",
+          "hash": "6529887400882112953"
+        },
+        {
+          "file": "libs/my-vite-lib/eslint.config.js",
+          "hash": "16942999842498204"
+        },
+        {
+          "file": "libs/my-vite-lib/index.html",
+          "hash": "9237471600690754552"
+        },
+        {
+          "file": "libs/my-vite-lib/package.json",
+          "hash": "5558295662278353698"
+        },
+        {
+          "file": "libs/my-vite-lib/project.json",
+          "hash": "1602447573518433550"
+        },
+        {
+          "file": "libs/my-vite-lib/public/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "libs/my-vite-lib/src/App.css",
+          "hash": "3739391659270974612"
+        },
+        {
+          "file": "libs/my-vite-lib/src/App.tsx",
+          "hash": "9561001225065465909"
+        },
+        {
+          "file": "libs/my-vite-lib/src/assets/react.svg",
+          "hash": "16069471864800376455"
+        },
+        {
+          "file": "libs/my-vite-lib/src/index.css",
+          "hash": "13504153635654440336"
+        },
+        {
+          "file": "libs/my-vite-lib/src/main.tsx",
+          "hash": "11038211546439381838"
+        },
+        {
+          "file": "libs/my-vite-lib/tsconfig.app.json",
+          "hash": "5465718486149434459"
+        },
+        {
+          "file": "libs/my-vite-lib/tsconfig.json",
+          "hash": "2365188958523842680"
+        },
+        {
+          "file": "libs/my-vite-lib/tsconfig.node.json",
+          "hash": "11862655124761714159"
+        },
+        {
+          "file": "libs/my-vite-lib/vite.config.ts",
+          "hash": "16225914092815047172"
+        }
+      ],
+      "nx-plugin-post-task-bug-repro": [
+        {
+          "file": ".nx/cache/run.json",
+          "hash": "9928930913651646408"
+        },
+        {
+          "file": ".nx/workspace-data/F9DEFCCB-2661-5D78-A4A1-79D2AA6D7564.db-shm",
+          "hash": "931194459343485661"
+        },
+        {
+          "file": ".nx/workspace-data/F9DEFCCB-2661-5D78-A4A1-79D2AA6D7564.db-wal",
+          "hash": "16617314788049745900"
+        },
+        {
+          "file": ".nx/workspace-data/d/server-process.json",
+          "hash": "7321065163427338326"
+        },
+        {
+          "file": ".nx/workspace-data/file-map.json",
+          "hash": "11835368647875962444"
+        },
+        {
+          "file": ".nx/workspace-data/nx_files.nxt",
+          "hash": "7518872106980341085"
+        },
+        {
+          "file": ".nx/workspace-data/project-graph.json",
+          "hash": "1115842570780080344"
+        },
+        {
+          "file": ".nx/workspace-data/project-graph.lock",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": ".nx/workspace-data/source-maps.json",
+          "hash": "846040222284410284"
+        },
+        {
+          "file": "libs/nx-log-plugin/package.json",
+          "hash": "6665925995573937201"
+        },
+        {
+          "file": "libs/nx-log-plugin/src/index.js",
+          "hash": "15685241548825908253"
+        },
+        {
+          "file": "libs/nx-log-plugin/tsconfig.json",
+          "hash": "3175210961459620737"
+        },
+        {
+          "file": "nx-log-669828671237615400-post.json",
+          "hash": "16037662216160978897"
+        },
+        {
+          "file": "nx.json",
+          "hash": "2175138144336847072"
+        },
+        {
+          "file": "package.json",
+          "hash": "7560613221527684921",
+          "deps": [
+            "npm:nx"
+          ]
+        },
+        {
+          "file": "pnpm-lock.yaml",
+          "hash": "12904608290236705714"
+        },
+        {
+          "file": "pnpm-worksapce.yaml",
+          "hash": "1463285251118362164"
+        },
+        {
+          "file": "tsconfig.base.json",
+          "hash": "3389754024062572381"
+        }
+      ]
+    }
+  },
+  "externalNodesHash": "5071255667732004640"
+}

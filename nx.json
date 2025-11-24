@@ -1,0 +1,24 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "plugins": [
+    {
+      "plugin": "./libs/nx-log-plugin/src/index.js",
+      "options": {}
+    }
+  ],
+  "targetDefaults": {
+    "dev": {
+      "cache": false,
+      "metadata": {
+        "technologies": ["vite"],
+        "description": "Start development server",
+        "help": {
+          "command": "npx nx dev my-vite-lib",
+          "example": {
+            "options": {}
+          }
+        }
+      }
+    }
+  }
+}

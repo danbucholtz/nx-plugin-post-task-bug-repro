@@ -1,0 +1,230 @@
+{
+  "libs/my-vite-lib": {
+    "root": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "libs/my-vite-lib/package.json",
+      "nx/core/package-json"
+    ],
+    "$schema": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.dev": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.dev.executor": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.dev.options": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.dev.options.command": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.dev.options.cwd": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.command": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.cwd": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.command": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.options.cwd": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.executor": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.command": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.preview.options.cwd": [
+      "libs/my-vite-lib/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.dev.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.dev.metadata": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.dev.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  ".": {
+    "root": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "name": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:public": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.0": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.description": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.executor": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options.script": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.scriptContent": [
+      "package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.runCommand": [
+      "package.json",
+      "nx/core/package-json"
+    ]
+  }
+}

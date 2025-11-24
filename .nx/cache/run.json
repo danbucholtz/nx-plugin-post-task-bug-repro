@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx dev my-vite-lib",
+    "startTime": "2025-11-24T06:17:49.229Z",
+    "endTime": "2025-11-24T06:17:50.824Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "my-vite-lib:dev",
+      "target": "dev",
+      "projectName": "my-vite-lib",
+      "hash": "10777336402065430393",
+      "startTime": "2025-11-24T06:17:49.259Z",
+      "endTime": "2025-11-24T06:17:50.821Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}
